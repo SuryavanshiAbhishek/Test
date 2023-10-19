@@ -1,0 +1,6 @@
+Hi Ajay Sir,
+These are the following topics which I set as target for today:
+
+1.Flow Control Statements (Docs)
+2.structs,slices and maps (Docs)
+3.methods and interfaces
